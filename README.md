@@ -1,2 +1,8 @@
-# rpi3-UbuntuMate
-RaspberryPi3 with Ubuntu Mate16.04
+# rpi3-packages
+RaspberryPi3  packages
+
+- [] docker
+- [] lantern
+- [] netdata
+- [] teamviewer-host
+- [] proxychains-ng
