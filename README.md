@@ -7,3 +7,4 @@ RaspberryPi3  packages
 - [ ] teamviewer-host
 - [ ] proxychains-ng
 - [ ] shadowsocks-libev
+- [ ] mosquitto (MQTT Server)
