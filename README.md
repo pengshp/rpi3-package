@@ -9,3 +9,4 @@ RaspberryPi3  packages
 - [ ] shadowsocks-libev
 - [ ] nodejs
 - [ ] mosquitto (MQTT Server)
+- [ ] dnscrypt-proxy
